@@ -1,0 +1,7 @@
+# Try one from given below
+
+python setup.py install
+
+easy_install argparse
+
+pip install argparse
